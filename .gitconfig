@@ -1,0 +1,5 @@
+[user]
+	name = Patrick Andrade
+	email = patrickmandrade@gmail.com
+[core]
+	editor = {vim}
