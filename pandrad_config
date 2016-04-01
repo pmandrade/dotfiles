@@ -1,3 +1,6 @@
 Host eniac
 	HostName eniac.seas.upenn.edu
 	User pandrad
+Host git
+  HostName github.com
+  User pmandrade
